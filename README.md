@@ -1,0 +1,2 @@
+# SmokeTest
+interface smoke test
