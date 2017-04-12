@@ -20,14 +20,3 @@ def driver_configurator():
 
 
 driver = driver_configurator()
-
-# 点击投资理财
-
-Money_button = driver.find_element_by_id('com.fengjr.mobile:id/tvMoney')
-driver.find_element_by_android_uiautomator("android.widget.TextView")
-
-print 'button done '
-
-Money_button.click()
-
-print 'click done '
